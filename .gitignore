@@ -1,0 +1,11 @@
+# venv
+Lib
+Include
+Scripts
+.idea
+pyvenv.cfg
+
+# project
+locallibrary/catalog/__pycache__
+locallibrary/catalog/migrations/__pycache__
+locallibrary/locallibrary/__pycache__
